@@ -30,6 +30,7 @@ document.write('                            <div class="contact_info_widget">	')
 document.write('                                <p><i class="ci_icon-home2"></i>Webb Chapel church of Christ<br>13425 Webb Chapel Road,<br>Farmers Branch, Texas 75234</p>	');
 document.write('                                <p class="no_margin_bottom"><i class="ci_icon-call2"></i>(972) 241-3293</p>	');
 document.write('                                <p><i class="ci_icon-mail-empty"></i> <a style="text-decoration:underline;" href="' + varcocrootpath + 'contact.html">Email Us</a></p>	');
+document.write('                                <p>Charity ID: 75-1155632   ');
 document.write('                            </div>	');
 document.write('                        </div>	');
 document.write('                    </div>	');
@@ -48,9 +49,7 @@ document.write('                        </div>	');
 document.write('                        <div id="footer_social" class="span6">	');
 document.write('                            <a href="https://www.facebook.com/WebbChapelUpdates" target="_blank"><i class="ci_icon-facebook"></i></a>	');
 document.write('                            <a href="https://twitter.com/webbchapel" target="_blank"><i class="ci_icon-twitter"></i></a>	');
-document.write('                            <a href="#" target="_blank"><i class="ci_icon-googleplus"></i></a>	');
-document.write('                            <a href="#" target="_blank"><i class="ci_icon-pinterest"></i></a>	');
-document.write('                            <a href="#" target="_blank"><i class="ci_icon-instagram"></i></a>	');
+document.write('                            <a href="https://www.youtube.com/@WCCConline" target="_blank"><i class="ci_icon-youtube"></i></a>	');
 document.write('                        </div>	');
 document.write('                    </div>	');
 document.write('                </div>	');
